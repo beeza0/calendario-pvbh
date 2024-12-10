@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/calendario-pvbh/static/css/main.172d1e51.css",
+    "main.js": "/calendario-pvbh/static/js/main.78c9e726.js",
+    "index.html": "/calendario-pvbh/index.html",
+    "main.172d1e51.css.map": "/calendario-pvbh/static/css/main.172d1e51.css.map",
+    "main.78c9e726.js.map": "/calendario-pvbh/static/js/main.78c9e726.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.172d1e51.css",
+    "static/js/main.78c9e726.js"
+  ]
+}
